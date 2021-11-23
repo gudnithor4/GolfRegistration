@@ -194,7 +194,7 @@ def executeRegistration():
     else:
         logging.error('Date is invalid for registration')
 
-schedule.every().day.at("22:00:02").do(executeRegistration) # 2 seconds past 22 - should probably change it to random 0-5 sec
+schedule.every().day.at("22:00:02").do(executeRegistration)
 schedule.every(5).minutes.do(isServiceAlive)
 
 while 1:
