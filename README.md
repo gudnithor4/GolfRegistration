@@ -8,5 +8,5 @@ Python script which allows for automatic registration in Golfbox
 - Hér er því ein regla strax brotin hjá klúbbunum sjálfum sem kemur niður á klúbbmeðlimum (sem nú þegar eru of margir)
 #### Fólk er gjarnt á að bóka tíma - mæta ekki og gleyma að afskrá sig á teig
 - Þó svo að ég hafi notað script til að skrá mig á teig þá var það undantekningarlaust þannig að ef mitt holl sá sér ekki fært að mæta var tíminn afbókaður eins fljótt og auðið var.
-#### Golfbox er mögulega versta forrit allra tíma - það á bæði við um appið sem og vefinn
+#### Golfbox er forrit sem er undir pari (e. subpar - pun intended) - það á bæði við viðmót sem og virkni bæði í appi og vef
 
